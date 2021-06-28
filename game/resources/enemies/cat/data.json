@@ -1,0 +1,14 @@
+{
+  "id": "cat",
+  "images": {
+    "1c": ["resources/enemies/cat/cat2.png", [500, 400]],
+    "1b": ["resources/enemies/cat/cat1.png", [500, 400]],
+    "2b": ["resources/enemies/cat/cat2.png", [500, 400]],
+    "2d": ["resources/enemies/cat/cat3.png", [1400, 400]],
+    "1e": ["resources/enemies/cat/cat0.png", [0, 0]]
+  },
+  "jumpscare_image": {
+    "resources/enemies/cat/cat0.png": [0, 0]
+  },
+  "rate": 1.5
+}

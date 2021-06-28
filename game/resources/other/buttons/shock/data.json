@@ -1,0 +1,8 @@
+{
+  "images": [
+    "resources/other/buttons/shock/icon.png",
+    "resources/other/buttons/shock/icon.png"
+  ],
+  "location": [20, 620],
+  "name": "shock"
+}

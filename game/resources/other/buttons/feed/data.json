@@ -1,0 +1,8 @@
+{
+  "images": [
+    "resources/other/buttons/feed/icon.png",
+    "resources/other/buttons/feed/icon.png"
+  ],
+  "location": [100, 620],
+  "name": "feed"
+}

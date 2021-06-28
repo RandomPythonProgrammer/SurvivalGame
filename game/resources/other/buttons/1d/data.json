@@ -1,0 +1,8 @@
+{
+  "images": [
+    "resources/other/buttons/1d/icon.png",
+    "resources/other/buttons/1d/icon1.png"
+  ],
+  "location": [-250, 625],
+  "name": "1d"
+}

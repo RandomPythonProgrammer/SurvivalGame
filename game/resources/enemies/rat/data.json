@@ -1,0 +1,13 @@
+{
+  "id": "rat",
+  "images": {
+    "1a": ["resources/enemies/rat/rat0.png", [650, 650]],
+    "2a": ["resources/enemies/rat/rat0.png", [650, 650]],
+    "1b": ["resources/enemies/rat/rat0.png", [650, 650]],
+    "2b": ["resources/enemies/rat/rat0.png", [650, 650]],
+    "1c": ["resources/enemies/rat/rat0.png", [650, 650]]
+  },
+  "tick": "resources/enemies/rat/tick.py",
+  "setup": "resources/enemies/rat/setup.py",
+  "rate": 5
+}

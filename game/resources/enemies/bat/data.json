@@ -1,0 +1,12 @@
+{
+  "id": "bat",
+  "images": {
+    "2c": ["resources/enemies/bat/bat1.png", [200, 200]],
+    "1e": ["resources/enemies/bat/bat0.png", [200, 200]]
+  },
+  "jumpscare_image": {
+    "resources/enemies/bat/bat0.png": [0, 0]
+  },
+  "tick": "resources/enemies/bat/tick.py",
+  "rate": 10
+}
