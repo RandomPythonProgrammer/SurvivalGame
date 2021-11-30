@@ -1,10 +1,10 @@
 {
   "enemies": {
-    "enemies:dog": 10,
-    "enemies:cat": 10,
-    "enemies:bat": 10,
-    "enemies:rat": 10
+    "enemies:dog": 12,
+    "enemies:cat": 12,
+    "enemies:bat": 12,
+    "enemies:rat": 12
   },
-  "power_mult": 1.5,
-  "minutes": 7
+  "power_mult": 1.25,
+  "minutes": 5
 }

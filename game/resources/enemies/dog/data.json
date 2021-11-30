@@ -1,10 +1,10 @@
 {
   "id": "dog",
   "images": {
-    "1c": ["resources/enemies/dog/dog1.png", [200, 200]],
-    "1a": ["resources/enemies/dog/dog3.png", [200, 200]],
-    "2a": ["resources/enemies/dog/dog2.png", [200, 200]],
-    "1d": ["resources/enemies/dog/dog3.png", [-250, 200]],
+    "1c": ["resources/enemies/dog/dog1.png", [780, 210]],
+    "1a": ["resources/enemies/dog/dog3.png", [200, 170]],
+    "2a": ["resources/enemies/dog/dog2.png", [250, 200]],
+    "1d": ["resources/enemies/dog/dog3.png", [-250, 230]],
     "1e": ["resources/enemies/dog/dog0.png", [0, 0]]
   },
   "jumpscare_image": {

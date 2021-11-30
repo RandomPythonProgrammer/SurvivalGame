@@ -1,0 +1,71 @@
+Controls:
+
+You just use mouse to control the game. Move mouse to the far left side to look left and 
+move mouse to far right to look right. You can left click on buttons to interact with
+them.
+
+
+Characters:
+
+-dog: dog will come from the left side and enter your office
+
+-cat: cat will come from the right side and enter your office
+
+-rat: rat will chew on your wires to drain your power
+
+-bat: bat will eat food, if food runs out bat will attack you
+
+
+Buttons:
+
+-cameras: pulls up the cameras
+
+-door: turns on the electrical fence to stop the animals
+
+-camera buttons: switch cameras
+
+-shock: removes mouse if mouse is in that room
+
+-feed: adds food to the bat
+
+
+Guide:
+
+-power: using the cameras, doors, the rat, and doing nothing will all drain power. When
+power runs out the electrical fences and cameras will all be disabled and the enemies
+will all be placed on max difficulty
+
+-enemies: enemies will move from room to room before ariving at the doors, close the doors
+to prevent then from entering the office. You will be able to see the enemies in the
+doorways before they enter
+
+-food: once the food runs out you are basically dead, there is nothing you can do, so you
+must keep food above zero
+
+-difficulty: enemies will increase in difficulty every 3 minutes
+
+-winning: you will win if the timer reaches zero
+
+
+Levels:
+
+each level will become harder than the previous one, there are a total of 6 levels. levels
+will get harder by doing one of the following:
+
+-adding enemies
+-increasing power drain
+-increasing the timer
+-increasing the difficulty (action speed) of the enemies
+
+
+Story:
+
+there is no official story but if you really need some context or story here is one:
+
+You are a zoo manager, and you need to keep track of the animals during the night. All of
+the animals have been infected with rabies so you dont want them to bite you. You have
+electrical fences that use electricity to deter animals from coming into your office.
+There is a bat that is stationed behind you that you must distract with food so they dont
+attack you. The rat chews on your wires and drains your power, so you have to shock it
+to temporarily deter it
+ 

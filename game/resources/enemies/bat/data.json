@@ -8,5 +8,5 @@
     "resources/enemies/bat/bat0.png": [0, 0]
   },
   "tick": "resources/enemies/bat/tick.py",
-  "rate": 10
+  "rate": 7.5
 }

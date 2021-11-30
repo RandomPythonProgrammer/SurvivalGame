@@ -1,13 +1,13 @@
 {
   "id": "rat",
   "images": {
-    "1a": ["resources/enemies/rat/rat0.png", [650, 650]],
-    "2a": ["resources/enemies/rat/rat0.png", [650, 650]],
-    "1b": ["resources/enemies/rat/rat0.png", [650, 650]],
-    "2b": ["resources/enemies/rat/rat0.png", [650, 650]],
-    "1c": ["resources/enemies/rat/rat0.png", [650, 650]]
+    "1a": ["resources/enemies/rat/rat0.png", [750, 600]],
+    "2a": ["resources/enemies/rat/rat0.png", [550, 600]],
+    "1b": ["resources/enemies/rat/rat0.png", [650, 600]],
+    "2b": ["resources/enemies/rat/rat0.png", [250, 600]],
+    "1c": ["resources/enemies/rat/rat0.png", [850, 600]]
   },
   "tick": "resources/enemies/rat/tick.py",
   "setup": "resources/enemies/rat/setup.py",
-  "rate": 5
+  "rate": 2.5
 }

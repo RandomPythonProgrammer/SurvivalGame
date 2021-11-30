@@ -5,6 +5,6 @@
     "enemies:bat": 10,
     "enemies:rat": 10
   },
-  "power_mult": 1.25,
+  "power_mult": 1,
   "minutes": 5
 }
