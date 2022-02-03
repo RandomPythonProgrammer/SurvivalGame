@@ -469,9 +469,9 @@ class Game:
                 if enemy.current_room in DOORS.keys():
                     enemy.draw(self.window, relative=True)
             if DOORS["1d"]:
-                self.window.blit(door_sprite, get_actual_pos((-375, 0), VIEWPORT))
+                self.window.blit(self.door_sprite, get_actual_pos((-375, 0), VIEWPORT))
             if DOORS["2d"]:
-                self.window.blit(door_sprite, get_actual_pos((1280, 0), VIEWPORT))
+                self.window.blit(self.door_sprite, get_actual_pos((1280, 0), VIEWPORT))
             for button in self.room_buttons:
                 button.draw(self.window)
             for enemy in self.enemies:

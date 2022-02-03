@@ -22,7 +22,7 @@ window = pg.display.set_mode(window_size)
 
 
 def start_game():
-    os.system(f"python main.pyw {get_current_level()}")
+    os.system(f"python main.py {get_current_level()}")
     sys.exit()
 
 
